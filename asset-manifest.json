@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/airbnbclone/static/css/main.862ca92c.chunk.css",
+    "main.js": "/airbnbclone/static/js/main.44e54fe5.chunk.js",
+    "main.js.map": "/airbnbclone/static/js/main.44e54fe5.chunk.js.map",
+    "runtime-main.js": "/airbnbclone/static/js/runtime-main.8359fb48.js",
+    "runtime-main.js.map": "/airbnbclone/static/js/runtime-main.8359fb48.js.map",
+    "static/css/2.081f420c.chunk.css": "/airbnbclone/static/css/2.081f420c.chunk.css",
+    "static/js/2.27e9819b.chunk.js": "/airbnbclone/static/js/2.27e9819b.chunk.js",
+    "static/js/2.27e9819b.chunk.js.map": "/airbnbclone/static/js/2.27e9819b.chunk.js.map",
+    "index.html": "/airbnbclone/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/airbnbclone/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.862ca92c.chunk.css.map": "/airbnbclone/static/css/main.862ca92c.chunk.css.map",
+    "static/js/2.27e9819b.chunk.js.LICENSE.txt": "/airbnbclone/static/js/2.27e9819b.chunk.js.LICENSE.txt",
+    "static/media/airbnb.2e5a4908.PNG": "/airbnbclone/static/media/airbnb.2e5a4908.PNG",
+    "static/media/bigImage.17ef6969.jpg": "/airbnbclone/static/media/bigImage.17ef6969.jpg",
+    "static/media/bigImage1.e1e23785.jpg": "/airbnbclone/static/media/bigImage1.e1e23785.jpg",
+    "static/media/image1.8af64e3d.jpg": "/airbnbclone/static/media/image1.8af64e3d.jpg",
+    "static/media/image2.58ce3bcd.jpg": "/airbnbclone/static/media/image2.58ce3bcd.jpg",
+    "static/media/image3.5f9d100d.jpg": "/airbnbclone/static/media/image3.5f9d100d.jpg",
+    "static/media/image4.65eb036b.jpg": "/airbnbclone/static/media/image4.65eb036b.jpg",
+    "static/media/image5.d5cd4698.jpg": "/airbnbclone/static/media/image5.d5cd4698.jpg",
+    "static/media/image6.fd9185e5.jpg": "/airbnbclone/static/media/image6.fd9185e5.jpg",
+    "static/media/img2.ff5adc28.jpg": "/airbnbclone/static/media/img2.ff5adc28.jpg",
+    "static/media/img3.9c1e8ce1.jpg": "/airbnbclone/static/media/img3.9c1e8ce1.jpg",
+    "static/media/logo.5592c0a2.png": "/airbnbclone/static/media/logo.5592c0a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8359fb48.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.27e9819b.chunk.js",
+    "static/css/main.862ca92c.chunk.css",
+    "static/js/main.44e54fe5.chunk.js"
+  ]
+}
