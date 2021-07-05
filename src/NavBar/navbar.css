@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btnNavbar{
+    padding-Left: 5px;
+    padding-right: 5px;
+    border-radius: 15px;
+}
+.btnNavbar:hover{
+    background-color: gray;
+    
+}
+

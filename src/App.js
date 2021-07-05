@@ -1,23 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import Navbar from './NavBar/Navbar';
+import HomeSection from './Sections/HomeSection';
+import CelebrateSection from './Sections/CelebrateSection';
+import SellingCardSection from './Sections/SellingCardSection';
+import StartingSection from './Sections/StartingSection';
+import HorizontalCards from './Sections/HorizontalCards';
+import NextThisWeek from './Sections/NewThisWeek';
+import BigCards from './Sections/BigCards';
+import LoadMore from './Sections/LoadMore';
+import Footer from './Sections/Footer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar />
+      <HomeSection />
+      <hr style={{ marginTop: '20px' }} />
+      <CelebrateSection />
+      <SellingCardSection />
+      <StartingSection />
+      <HorizontalCards />
+      <NextThisWeek />
+      <BigCards />
+      <LoadMore />
+      <Footer />
     </div>
   );
 }

@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.becomeHostButton:hover {
+  background-color: #999999;
+}
